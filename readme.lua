@@ -3,6 +3,7 @@ Practicando FLEX
 
 -- Esto Funciona de forma de parte alineada  para la derecha o izquierda --- >
 justify-content: flex-start (default) / flex-end / center / space-between / space-around / space-evenly
+-- space-between;  Distribuye los elementos a los extremos del contenedor 
 
 -- Esto Funciona de forma de parte arriba o abajo  --- >
 align-items: flex-start / flex-end / center / baseline / stretch (default)
